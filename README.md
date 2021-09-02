@@ -1,2 +1,2 @@
 # mockup-frontend
-Simple frontend application
+Simple frontend service
